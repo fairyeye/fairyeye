@@ -1,4 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyeye&show_icons=true)
+### Hi there ,Get to know me quickly!😎  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=fairyeye&count_private=true&show_icons=true&theme=gotham&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairyeye&theme=gotham&layout=compact" />
+</a>
 
 
 <!--
